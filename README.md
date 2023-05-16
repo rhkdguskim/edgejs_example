@@ -71,3 +71,30 @@ getPerson(null, (error, result) => {
         }
     }
 ```
+
+### Output
+```
+7
+Hello from C# method!
+I am C# Hi
+{
+  Result: null,
+  Id: 1,
+  Exception: null,
+  Status: 'RanToCompletion',
+  IsCanceled: false,
+  IsCompleted: true,
+  CreationOptions: 'None',
+  AsyncState: null,
+  IsFaulted: false
+}
+{
+  anInteger: 1,
+  aNumber: 3.1415,
+  aString: 'chaged',
+  aBoolean: true,
+  aBuffer: <Buffer 00 00 00 00 00 00 00 00 00 00>,
+  anArray: [ 1, 'foo' ],
+  anObject: { a: 'foo', b: 12 }
+}
+```
