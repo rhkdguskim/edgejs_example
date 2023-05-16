@@ -1,0 +1,14 @@
+{
+  "name": "edgejs_example",
+  "version": "1.0.0",
+  "description": "Edgejs 예제 코드 입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edge-js": "^19.3.0"
+  }
+}

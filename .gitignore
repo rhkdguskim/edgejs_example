@@ -1,3 +1,8 @@
+# c#
+bin/
+obj/
+.vs/
+
 # Logs
 logs
 *.log
